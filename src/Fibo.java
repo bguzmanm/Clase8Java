@@ -7,6 +7,8 @@ public class Fibo {
   // Preguntar al usuario, cuantos números de la secuencia de fibonacci,
   // quiere que generes y muestres por pantalla
 
+  //La secuencia, ha de ser guardada en un arreglo.
+
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);
